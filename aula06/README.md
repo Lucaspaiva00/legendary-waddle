@@ -12,3 +12,6 @@ Segue abaixo os wireframes restantes:
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 ![alt text](image-5.png)
+
+- .Env
+DATABASE_URL="mysql://root@localhost:3306/fluxocaixa?schema=public&timezone=UTC"
